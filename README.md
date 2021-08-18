@@ -2,7 +2,7 @@
  공공데이터를 활용한 IoT디바이스 만들기 2021
 
 ## Project Flow
-Steps|Topic|Assignmnents
+Steps|Topic|Sketch
  ---|---|---
 1|아두이노 시리얼 통신|[print Hello](https://github.com/SoyeonHH/Arduino/blob/main/Hello/Hello.ino)
 2|LED 출력|[Blink](https://github.com/SoyeonHH/Arduino/blob/main/sketch_blink/sketch_blink.ino), [입력값에 따른 LED 출력](https://github.com/SoyeonHH/Arduino/blob/main/LED_serial_print/LED_serial_print.ino)
