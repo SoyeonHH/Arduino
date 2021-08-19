@@ -1,0 +1,17 @@
+{
+  "abbreviation": "KST",
+  "client_ip": "118.219.220.151",
+  "datetime": "2021-08-20T03:35:17.114867+09:00",
+  "day_of_week": 5,
+  "day_of_year": 232,
+  "dst": false,
+  "dst_from": null,
+  "dst_offset": 0,
+  "dst_until": null,
+  "raw_offset": 32400,
+  "timezone": "Asia/Seoul",
+  "unixtime": 1629398117,
+  "utc_datetime": "2021-08-19T18:35:17.114867+00:00",
+  "utc_offset": "+09:00",
+  "week_number": 33
+}
