@@ -1,0 +1,20 @@
+<busRouteList>
+    <districtCd>2</districtCd>
+    <regionName>수원,화성</regionName>
+    <routeId>200000144</routeId>
+    <routeName>99</routeName>
+    <routeTypeCd>13</routeTypeCd>
+    <routeTypeName>일반형시내버스</routeTypeName>
+</busRouteList>
+<busRouteStationList>
+    <centerYn>N</centerYn>
+    <districtCd>2</districtCd>
+    <mobileNo> 04006</mobileNo>
+    <regionName>수원</regionName>
+    <stationId>203000099</stationId>
+    <stationName>그린빌주공5단지</stationName>
+    <x>127.0405333</x>
+    <y>37.2559167</y>
+    <stationSeq>62</stationSeq>
+    <turnYn>N</turnYn>
+</busRouteStationList>
