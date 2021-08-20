@@ -13,7 +13,7 @@ Steps|Topic|Sketch
 
 ## Project
 
-### 1. Wheather
+### 1. Weather
 
 * Description: 기상청의 실시간 동네 날씨 정보를 통해 현재 기온과 날씨를 출력한다.
 * 4-digit Segment: 현재 기온
@@ -21,9 +21,13 @@ Steps|Topic|Sketch
 * [Code](https://github.com/SoyeonHH/Arduino/blob/main/BasicHttpClient_wheather_ex1/BasicHttpClient_wheather_ex1.ino)
 * [Source](http://www.kma.go.kr/wid/queryDFSRSS.jsp?zone=4111753000)
 
+![Weather](/image/wheather.PNG)
+
 ### 2. Bustop
 
 * Description: 버스 노선 조회 공공데이터를 통해 특정 정류소에서 특정 버스의 예상 대기 시간을 출력한다.
 * 4-digit Segment: 예상 대기 시간1 (2-digit), 예상 대기 시간2 (2-digit)
 * Buzzor: 예상 대기 시간이 5분 이내일 때 부저가 울림
 * [Code](https://github.com/SoyeonHH/Arduino/blob/main/BasicHttpClient_bustop_ex2/BasicHttpClient_bustop_ex2.ino)
+
+![Bustop](/image/bustop.PNG)
